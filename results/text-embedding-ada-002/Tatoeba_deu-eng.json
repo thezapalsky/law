@@ -1,0 +1,15 @@
+{
+  "dataset_revision": "69e8f12da6e31d59addadda9a9c8a2e601a0e282",
+  "mteb_dataset_name": "Tatoeba_deu-eng",
+  "mteb_version": "1.8.1",
+  "test": {
+    "deu-eng": {
+      "accuracy": 0.988,
+      "f1": 0.9855555555555554,
+      "main_score": 0.9855555555555554,
+      "precision": 0.984625,
+      "recall": 0.988
+    },
+    "evaluation_time": 602.09
+  }
+}
